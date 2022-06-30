@@ -2,7 +2,45 @@
 
 You can use the [editor on GitHub](https://github.com/Metroish472/metroish472.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.𒁯
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+If you found this here is a cycle notation sneak peek
+⥀ {x^-finity[ε_0]} ⥀=The Tetrebirth
+⥀ {x^-finity[ω_1]} ⥀=The Rebirth Cardinal
+⥀ {x^♓︎/-finity[Ω]} ⥀=Ultimate Loop
+⥀ {x^-finity[ΩxΩ]} ⥀=Meta Loop
+⥀ {x^-finity[.|ΩxXΩ|. xΩ]} ⥀=Alpha Loop
+⥀ {x^-finity[ϴ]} ⥀=Prestiging Loop
+⥀ {x^‡/-finity[☉]} ⥀=Perceptual One (Large Scaled Perpetual/PEU*)
+⥀ {x^‡x‡} ⥀=Interminable Cardinal
+⥀ {x^‡ {x^Ω} ‡} ⥀=Unlimit
+⥀ {x^Ɒ} ⥀=The Ultimate Beyond
+⥀ {x^ⱰxⱰ} ⥀=Absolute Tav
+⥀ {x^Ɒ {x^Ω} Ɒ} ⥀=Indefinitefinity
+⥀ {x^Ɒ {x^𝖀} Ɒ} ⥀=Unixarrowfinity
+⥀ {x^ᴓ} ⥀=Super Sam's Number
+⥀ {x^ᴕ} ⥀=Paradoxmeility
+⥀ {x^₪} ⥀=Sunimretility
+⥀ {x^℘} ⥀=Infinitalandar (Large Scaled Qalandar)
+⥀ {x^Ђ} ⥀=Totalfinity (Large Scaled Totality/山)
+⥀ {x^ໂ} ⥀=The Great Fish (Large Scaled The First Fish)
+⥀ {x^Ⳃ} ⥀=Sam's Supernumber
+⥀ {x^ⳂxⳂ} ⥀=NO's Supernumber
+⥀ {x^⊡} ⥀=Numifinity
+⥀ {x^▣} ⥀=The Ultimate Cycle
+⥀ {x^▣} ⥀=True Cycle
+⥀ {x^▣} ⥀=Innerconst (Large Scaled Outerconst)
+⥀ {x^▣} ⥀=The Great Function
+⥀ {x^▣} ⥀=The Beyondility
+⥀ {x^▣} ⥀=True Axiomatic Limit (Large Scaled Axiomatic Limit)
+⥀ {x^▣} ⥀=Ignorance Ordinal
+⥀ {x^▣} ⥀=Cetusfinity
+⥀ {x^▣} ⥀=Homnoion Ordinal
+⥀ {x^▣} ⥀=Dect Function
+⥀ {x^▣} ⥀=Deceret Now Cardinal
+⥀ {x^▣} ⥀=The ???? Ordinal
+⥀ {x^▣} ⥀=Miserable Bypassing The EXAPT
+⥀ {x^▣} ⥀=Bypassed of the Ordinals
 
 ### Markdown
 
