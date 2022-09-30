@@ -28,8 +28,8 @@ If you found this here is a cycle notation sneak peek
 ⥀ {x^ⳂxⳂ} ⥀=NO's Supernumber
 ⥀ {x^⊡} ⥀=Numifinity
 ⥀ {x^▣} ⥀=The Ultimate Cycle
-⥀ {x^▣} ⥀=True Cycle
-⥀ {x^▣} ⥀=Innerconst (Large Scaled Outerconst)
+⥀ {x^■} ⥀=True Cycle
+⥀ {x^ᴪ} ⥀=Innerconst (Large Scaled Outerconst)
 ⥀ {x^▣} ⥀=The Great Function
 ⥀ {x^▣} ⥀=The Beyondility
 ⥀ {x^▣} ⥀=True Axiomatic Limit (Large Scaled Axiomatic Limit)
